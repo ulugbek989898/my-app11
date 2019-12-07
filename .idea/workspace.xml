@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="79838057-8622-4d0a-911f-7d6c068f50e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/header/header.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/firebase/firebase.util.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/firebase/firebase.util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +83,11 @@
       <workItem from="1575131592625" duration="1468000" />
       <workItem from="1575277005791" duration="136000" />
       <workItem from="1575277885437" duration="983000" />
-      <workItem from="1575446974373" duration="2715000" />
+      <workItem from="1575446974373" duration="3097000" />
+      <workItem from="1575525044545" duration="3362000" />
+      <workItem from="1575652192050" duration="373000" />
+      <workItem from="1575653674429" duration="1692000" />
+      <workItem from="1575694448726" duration="1300000" />
     </task>
     <servers />
   </component>
