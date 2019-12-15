@@ -3,8 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="79838057-8622-4d0a-911f-7d6c068f50e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/header/header.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/header/header.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redux/root-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/root-reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/collection-item/collection-item.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/collection-item/collection-item.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/collection-item/collection-item.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/collection-item/collection-item.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/collection-preview/collection-preview.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/collection-preview/collection-preview.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/custom-button/custom-button.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/custom-button/custom-button.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/custom-button/custom-button.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/custom-button/custom-button.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/shop/shop.data.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/shop/shop.data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/cart/cart.types.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/cart/cart.types.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +96,13 @@
       <workItem from="1575694448726" duration="6905000" />
       <workItem from="1575787936477" duration="599000" />
       <workItem from="1575914230123" duration="152000" />
-      <workItem from="1575958754152" duration="2682000" />
+      <workItem from="1575958754152" duration="3068000" />
+      <workItem from="1575974748339" duration="135000" />
+      <workItem from="1576037278508" duration="1114000" />
+      <workItem from="1576215841258" duration="167000" />
+      <workItem from="1576216034222" duration="2345000" />
+      <workItem from="1576219878667" duration="84000" />
+      <workItem from="1576421296225" duration="1025000" />
     </task>
     <servers />
   </component>
