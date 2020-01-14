@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="79838057-8622-4d0a-911f-7d6c068f50e0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/component/cart-dropdown/cart-dropdown.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/cart-dropdown/cart-dropdown.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/cart-icon/cart-icon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/cart-icon/cart-icon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +98,9 @@
       <workItem from="1576216034222" duration="2345000" />
       <workItem from="1576219878667" duration="84000" />
       <workItem from="1576421296225" duration="1431000" />
-      <workItem from="1576485374156" duration="1432000" />
+      <workItem from="1576485374156" duration="1944000" />
+      <workItem from="1578739614421" duration="563000" />
+      <workItem from="1578986280501" duration="2214000" />
     </task>
     <servers />
   </component>
